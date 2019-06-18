@@ -50,7 +50,9 @@ ehthumbs.db
 Thumbs.db
 
 # Version control
-vcs.xml# lint
+vcs.xml
+
+# lint
 lint/intermediates/
 lint/generated/
 lint/outputs/
